@@ -17,14 +17,21 @@
 - **Label Description:** [Crop yield, which is measured in metric tons per hectare, is the quantity of agricultural produce harvested per unit of land area. This is the outcome variable (Y) that I wish to comprehend the causal impact of drip irrigation on in this project.
 - Prediction Task: My causal machine learning project assesses the causal influence of treatment (drip irrigation) on yield while accounting for confounders so I will try to explore "How much does drip irrigation CAUSE yield to change?" rather "what will the yield be?", whereas classical machine learning would predict yield values based on attributes.]
 - **Label Values:** [
-- Value Range (tons/ha)
+Value Range (tons/ha)
 < 2.0	(Very low yield -Crop failure/poor management/extreme stress)
+
 2.0 - 3.5	(Low yield -Subsistence farming/poor conditions)
+
 3.5 - 5.0	(Below average	-Developing farm systems)
+
 5.0 - 6.5	(Average yield	-Typical commercial farming)
+
 6.5 - 8.0	(Good yield	-Above average/improved practices)
+
 8.0 - 10.0 (Excellent yield	-High-input/optimized systems)
+
 > 10.0	(Exceptional yield	-Best-in-class/ideal conditions)
+
 ]
 - **Label Distribution:** [Brief description of class balance for classification or value distribution for regression]
 
