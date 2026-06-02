@@ -34,13 +34,19 @@ The authors distinguish between "ML for causality" (using ML to answer causal qu
   - **Relation to the Project**: 
 The theoretical framework for my project is provided by this paper, which validates the selection of Double/Debiased ML and Causal Forests as suitable techniques for estimating irrigation effects. The workflow closely resembles the structure of my project, defining treatment (drip irrigation), outcome (yield), confounders (soil, region, management), and effect modifiers (NDVI, weather variables). The paper's focus on CATE estimation for targeted policy recommendations is exactly in line with my project's objective of determining which farms gain the most from drip irrigation.
 
-- **Source 2**: [Title of Source 2]
+- **Source 2**: [Comparing XGBoost and Double Machine Learning for Predicting the Nitrogen Requirement of Rice]
 
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
+  - **[[Link](https://doaj.org/article/da0104cf754849bc9ebc60ca57cb9700)]()**
+  - **Objective**: To develop and evaluate a Causal Machine Learning framework for estimating heterogeneous nitrogen treatment effects under real commercial rice-farming conditions, comparing DML against conventional XGBoost.
+  - **Methods**: Double Machine Learning (DML), Doubly Robust (DR) learner, Causal Forest model
   - **Outcomes**:
+1) DML outperformed XGBoost in identifying field plots responsive to additional nitrogen
+2) The causal framework successfully distinguished responsive from non-responsive zones
+3) Integration with plant-status information (LNC) improved treatment effect estimation
+4) The decision support system enables targeted nitrogen increases while avoiding overfertilization in non-responsive areas
+   
   - **Relation to the Project**:
+It is also relevant to my project as we have the same goal as Heterogeneous effect estimation for targeted recommendations. Also we have same validation approach Comparing causal ML against predictive ML.
 
 - **Source 3**: [Title of Source 3]
 
@@ -55,4 +61,6 @@ References:
 
 1) Agiwal, P., & Gupta, R. (2024, November). Modern agriculture: a review of emerging crop yield prediction models using machine learning. In 2024 2nd International Conference on Advancements and Key Challenges in Green Energy and Computing (AKGEC) (pp. 1-6). IEEE.
 
-3) Sitokonstantinou, V., Porras, E. D. S., Bautista, J. C., Piles, M., Athanasiadis, I., Kerner, H., ... & Camps-Valls, G. (2024). Causal machine learning for sustainable agroecosystems. arXiv preprint arXiv:2408.13155.
+2) Sitokonstantinou, V., Porras, E. D. S., Bautista, J. C., Piles, M., Athanasiadis, I., Kerner, H., ... & Camps-Valls, G. (2024). Causal machine learning for sustainable agroecosystems. arXiv preprint arXiv:2408.13155.
+   
+3) Iatrou, M., Mourelatos, S., & Karydas, C. (2026). Comparing XGBoost and Double Machine Learning for Predicting the Nitrogen Requirement of Rice. Remote Sensing, 18(3), 420. https://doi.org/10.3390/rs18030420
