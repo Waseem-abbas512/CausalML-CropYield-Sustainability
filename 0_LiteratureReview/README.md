@@ -10,8 +10,8 @@ The main drawback noted in the research is that traditional machine learning tec
 **Summary of Each Work**:
 
 - **Source 1**: [Causal Machine Learning for Sustainable Agroecosystems]
-
-**[[Link](https://ar5iv.labs.arxiv.org/html/2408.13155)]**
+  
+- **[[Link](https://ar5iv.labs.arxiv.org/html/2408.13155)]**
     
   - **Objective**: To propose a comprehensive framework for applying causal ML to agricultural systems, addressing the limitations of predictive ML in explaining causal mechanisms and evaluating intervention impacts.
     
