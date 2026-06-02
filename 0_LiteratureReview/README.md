@@ -11,7 +11,7 @@ The main drawback noted in the research is that traditional machine learning tec
 
 - **Source 1**: [Causal Machine Learning for Sustainable Agroecosystems]
 
-  - **[(https://ar5iv.labs.arxiv.org/html/2408.13155)]()**
+**[[Link](https://ar5iv.labs.arxiv.org/html/2408.13155)]**
     
   - **Objective**: To propose a comprehensive framework for applying causal ML to agricultural systems, addressing the limitations of predictive ML in explaining causal mechanisms and evaluating intervention impacts.
     
@@ -36,7 +36,7 @@ The theoretical framework for my project is provided by this paper, which valida
 
 - **Source 2**: [Comparing XGBoost and Double Machine Learning for Predicting the Nitrogen Requirement of Rice]
 
-  - **[[Link](https://doaj.org/article/da0104cf754849bc9ebc60ca57cb9700)]()**
+  - **[[Link](https://doaj.org/article/da0104cf754849bc9ebc60ca57cb9700)]**
   - **Objective**: To develop and evaluate a Causal Machine Learning framework for estimating heterogeneous nitrogen treatment effects under real commercial rice-farming conditions, comparing DML against conventional XGBoost.
   - **Methods**: Double Machine Learning (DML), Doubly Robust (DR) learner, Causal Forest model
   - **Outcomes**:
