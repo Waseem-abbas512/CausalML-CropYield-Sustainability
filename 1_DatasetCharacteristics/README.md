@@ -12,9 +12,10 @@
 - **Number of Features:** The dataset contains 22 original features organized into logical groups for causal analysis.
 
 ### Target Variable/Label
-- **Label Name:** [Name of the target variable/column]
-- **Label Type:** [Classification/Regression/Clustering/Other]
-- **Label Description:** [What does this label represent? What is the prediction task?]
+- **Label Name:** [yield_tons_per_hecter. My outcome (Y) is a continuous yield variable - I will estimate average treatment effects (ATE) in tons/hectare]
+- **Label Type:** [REGRESSION (Continuous numerical prediction)]
+- **Label Description:** [Crop yield, which is measured in metric tons per hectare, is the quantity of agricultural produce harvested per unit of land area. This is the outcome variable (Y) that I wish to comprehend the causal impact of drip irrigation on in this project.
+- Prediction Task: My causal machine learning project assesses the causal influence of treatment (drip irrigation) on yield while accounting for confounders so I will try to explore "How much does drip irrigation CAUSE yield to change?" rather "what will the yield be?", whereas classical machine learning would predict yield values based on attributes.]
 - **Label Values:** [For classification: list of classes and their meanings. For regression: range of values. For other tasks: describe the label structure]
 - **Label Distribution:** [Brief description of class balance for classification or value distribution for regression]
 
