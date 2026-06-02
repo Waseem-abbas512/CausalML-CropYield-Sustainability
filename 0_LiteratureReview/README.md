@@ -12,10 +12,27 @@ The main drawback noted in the research is that traditional machine learning tec
 - **Source 1**: [Causal Machine Learning for Sustainable Agroecosystems]
 
   - **[(https://ar5iv.labs.arxiv.org/html/2408.13155)]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+    
+  - **Objective**: To propose a comprehensive framework for applying causal ML to agricultural systems, addressing the limitations of predictive ML in explaining causal mechanisms and evaluating intervention impacts.
+    
+  - **Methods**: The paper presents a structured workflow for causal ML in agriculture:
+1) Defining causal questions (qualitative via causal discovery; quantitative via effect estimation)
+2) Data collection from remote sensing, farm management systems, and observational studies
+3) Making structural assumptions (causal sufficiency, graph specification)
+4) Selecting appropriate methods (Double ML, Causal Forests, DR-Learner)
+5) Estimating ATE (Average Treatment Effect) and CATE (Conditional Average Treatment Effect)
+
+The authors distinguish between "ML for causality" (using ML to answer causal questions) and "causality for ML" (using causal knowledge to improve ML robustness).
+
+  - **Outcomes**:  The framework enables:
+    
+1) Quantifying intervention impacts for evidence-based decision-making
+2) Enhancing predictive model robustness through causal feature selection
+3) Identifying heterogeneous treatment effects across different subpopulations
+4) Moving from descriptive to prescriptive agricultural analytics
+ 
+  - **Relation to the Project**: 
+The theoretical framework for my project is provided by this paper, which validates the selection of Double/Debiased ML and Causal Forests as suitable techniques for estimating irrigation effects. The workflow closely resembles the structure of my project, defining treatment (drip irrigation), outcome (yield), confounders (soil, region, management), and effect modifiers (NDVI, weather variables). The paper's focus on CATE estimation for targeted policy recommendations is exactly in line with my project's objective of determining which farms gain the most from drip irrigation.
 
 - **Source 2**: [Title of Source 2]
 
