@@ -31,7 +31,7 @@ Value Range (tons/ha)
 
 8.0 - 10.0 (Excellent yield	-High-input/optimized systems)
 
-> 10.0	(Exceptional yield	-Best-in-class/ideal conditions)]
+.> 10.0	(Exceptional yield	-Best-in-class/ideal conditions)]
 
 - **Label Distribution:** [Brief description of class balance for classification or value distribution for regression]
 
