@@ -48,14 +48,25 @@ The theoretical framework for my project is provided by this paper, which valida
   - **Relation to the Project**:
 It is also relevant to my project as we have the same goal as Heterogeneous effect estimation for targeted recommendations. Also we have same validation approach Comparing causal ML against predictive ML.
 
-- **Source 3**: [Title of Source 3]
+- **Source 3**: [Effects of Sustainable Soil Fertility Management Practices on Maize Income in Rural Zambia]
 
-  - **[Link]()**
+  - **[Link](https://doi.org/10.1080/03031853.2025.2600300)**
   - **Objective**:
+  To use double machine learning to calculate the effects of sustainable soil fertility management (SFM) techniques, such as animal manure, minimum tillage, and better fallows, on maize income per hectare in rural Zambia.
   - **Methods**:
+Debiased/Double Machine Learning (DML) for ATE and ATT.
+DML-causal mediation analysis to understand mechanisms (with maize yield as mediator)
+
   - **Outcomes**:
+1) Improved fallows could raise maize income by 37% if adopted universally (ATE)
+2) Minimum tillage: 21% higher income (ATE), 15% higher for actual adopters (ATT)
+3) Animal manure: 20% higher potential (ATE) with lower realized benefits
+4) Adopting at least one SFM practice: 30% average income increase
+
   - **Relation to the Project**:
- 
+It is relevant to my study as it uses Validation of DML in agricultural contexts with observational data. 
+
+In nutshell, In order to evaluate the heterogeneous causal effects of drip irrigation on agricultural productivity utilizing IoT sensor data with NDVI as the principal effect modifier, no study has used Double/Debiased Machine Learning. Therefore, my project will fill this gap by methodologically replicating the DML + Causal forest approach validated in agriculture context. 
 
 References:
 
@@ -64,3 +75,5 @@ References:
 2) Sitokonstantinou, V., Porras, E. D. S., Bautista, J. C., Piles, M., Athanasiadis, I., Kerner, H., ... & Camps-Valls, G. (2024). Causal machine learning for sustainable agroecosystems. arXiv preprint arXiv:2408.13155.
    
 3) Iatrou, M., Mourelatos, S., & Karydas, C. (2026). Comparing XGBoost and Double Machine Learning for Predicting the Nitrogen Requirement of Rice. Remote Sensing, 18(3), 420. https://doi.org/10.3390/rs18030420
+
+4) Ng'ombe, J., Chikopela, L., Kalinda, T. H., & Kuntashula, E. (2026). Effects of sustainable soil fertility management practices on maize income in rural Zambia: a double machine learning approach. Agrekon, 65(1), 137-156. https://doi.org/10.1080/03031853.2025.2600300
