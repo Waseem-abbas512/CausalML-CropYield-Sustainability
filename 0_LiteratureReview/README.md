@@ -9,9 +9,9 @@ The main drawback noted in the research is that traditional machine learning tec
      
 **Summary of Each Work**:
 
-- **Source 1**: [Title of Source 1]
+- **Source 1**: [Causal Machine Learning for Sustainable Agroecosystems]
 
-  - **[Link]()**
+  - **[(https://ar5iv.labs.arxiv.org/html/2408.13155)]()**
   - **Objective**:
   - **Methods**:
   - **Outcomes**:
