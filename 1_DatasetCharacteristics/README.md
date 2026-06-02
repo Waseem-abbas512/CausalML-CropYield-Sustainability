@@ -18,6 +18,7 @@
 - Prediction Task: My causal machine learning project assesses the causal influence of treatment (drip irrigation) on yield while accounting for confounders so I will try to explore "How much does drip irrigation CAUSE yield to change?" rather "what will the yield be?", whereas classical machine learning would predict yield values based on attributes.]
 - **Label Values:** [
 Value Range (tons/ha)
+
 < 2.0	(Very low yield -Crop failure/poor management/extreme stress)
 
 2.0 - 3.5	(Low yield -Subsistence farming/poor conditions)
@@ -30,9 +31,8 @@ Value Range (tons/ha)
 
 8.0 - 10.0 (Excellent yield	-High-input/optimized systems)
 
-> 10.0	(Exceptional yield	-Best-in-class/ideal conditions)
+> 10.0	(Exceptional yield	-Best-in-class/ideal conditions)]
 
-]
 - **Label Distribution:** [Brief description of class balance for classification or value distribution for regression]
 
 ### Feature Description
