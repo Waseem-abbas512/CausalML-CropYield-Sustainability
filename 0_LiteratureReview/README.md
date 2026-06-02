@@ -36,5 +36,6 @@ The main drawback noted in the research is that traditional machine learning tec
 
 References:
 
-Agiwal, P., & Gupta, R. (2024, November). Modern agriculture: a review of emerging crop yield prediction models using machine learning. In 2024 2nd International Conference on Advancements and Key Challenges in Green Energy and Computing (AKGEC) (pp. 1-6). IEEE.
-Sitokonstantinou, V., Porras, E. D. S., Bautista, J. C., Piles, M., Athanasiadis, I., Kerner, H., ... & Camps-Valls, G. (2024). Causal machine learning for sustainable agroecosystems. arXiv preprint arXiv:2408.13155.
+1) Agiwal, P., & Gupta, R. (2024, November). Modern agriculture: a review of emerging crop yield prediction models using machine learning. In 2024 2nd International Conference on Advancements and Key Challenges in Green Energy and Computing (AKGEC) (pp. 1-6). IEEE.
+
+3) Sitokonstantinou, V., Porras, E. D. S., Bautista, J. C., Piles, M., Athanasiadis, I., Kerner, H., ... & Camps-Valls, G. (2024). Causal machine learning for sustainable agroecosystems. arXiv preprint arXiv:2408.13155.
