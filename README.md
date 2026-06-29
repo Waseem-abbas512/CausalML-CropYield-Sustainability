@@ -29,12 +29,11 @@ The primary task is regression (predicting continuous crop yield in tons/hectare
 
 #### Key Insights
 - **Most Important Features:**
-- Rank	Feature	Importance
-1	NDVI Index (Crop Health)	0.187
-2	Temperature	0.145
-3	Rainfall	0.132
-4	Soil Moisture	0.108
-5	Soil pH	0.087
+1)	NDVI Index (Crop Health)
+2)	Temperature
+3)	Rainfall
+4)	Soil Moisture
+5)	Soil pH
 These features drive the heterogeneity in treatment effects—meaning they help explain WHY some farms benefit from drip irrigation while others are harmed.
 - **Model Strengths:**
 1) Unbiased Causal Estimates	(DML successfully removes confounding bias, providing accurate ATE)
