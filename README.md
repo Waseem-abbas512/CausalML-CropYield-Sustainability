@@ -65,5 +65,5 @@ These features drive the heterogeneity in treatment effects—meaning they help 
 
 ## Cover Image
 
-(<<img width="1356" height="838" alt="cover_causal_ml" src="https://github.com/user-attachments/assets/f7a3ccaa-a70b-4867-a76d-44eaea134cc5" />
-)
+<img width="1356" height="838" alt="cover_causal_ml" src="https://github.com/user-attachments/assets/f7a3ccaa-a70b-4867-a76d-44eaea134cc5" />
+
