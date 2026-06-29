@@ -6,7 +6,7 @@
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+The objective of this study is to detect heterogeneous treatment effects across various farm variables while estimating the causal effect of drip irrigation on crop yield. We use Double/Debiased Machine Learning (DML) with Causal Forest to estimate both average and heterogeneous treatment effects while controlling for confounding variables (soil qualities, region, crop type, and disease status) using the Smart Farming Sensor Dataset (500 farms, 22 attributes). A baseline Random Forest model for yield prediction is also included in the research, which serves as a benchmark for comparison and highlights the value of causal techniques over solely predictive ones in agricultural policy targeting.
 
 ### Task Type
 
