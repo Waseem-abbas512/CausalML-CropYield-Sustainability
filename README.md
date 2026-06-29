@@ -1,4 +1,4 @@
-# CausalML-CropYield-Sustainability
+# Causal Effects of Irrigation Type on Crop Yield: A Double/Debiased Machine Learning Analysis Using IoT Sensor Data from 500 Smart Farms
 
 ## Repository Link
 
